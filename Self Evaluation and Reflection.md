@@ -1,5 +1,7 @@
-Self Evaluation Rubric
+Self Evaluation and Reflection
 ======================
+
+# Self Evaluation
 
 ## Skills
 
@@ -41,6 +43,7 @@ For each of the following, put an 'X' inside the square brackets if it applies.
 - [ ] I understood the language elements I was meant to use for this project. 
 - [ ] I can see how each of the six things (concepts) could be used on tihs project.  
 - [ ] My code is easy for *anyone* to read. 
+- [ ] My code is easy for anyone in class to follow.
 
 ## Habits
 
@@ -115,3 +118,9 @@ My project:
 reflects my personality or a held-interest. 
 
 Put an 'X' inside the square brackets next to the above option that most closely applies.
+
+---
+
+# Reflection
+
+Write about what you learned over the course of this project. Try and frame this meditation around the "six things" (variables, functions, conditionals, arrays, loops, objects). Also write about your process: how you formulated ideas, how you went about implementing those ideas, how you knew they were or weren't working, what you did in terms of troubleshooting. Resources you used. Your reflections will be evaluated on thoughtfulness, thoroughness, and congruency with the evidence of your work (If, for instance, you say you learned a lot about arrays in a given project, but you don't effectively use arrays in the project, that would be incongruent). 
